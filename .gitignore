@@ -50,6 +50,5 @@ dist/
 .DS_Store
 Thumbs.db
 
-# Database (optional - keep sample CSV instead)
-backend/library.db
-*.sqlite3
+# Database (pre-seeded benchmark SQLite database is tracked for immediate demo)
+# backend/library.db
