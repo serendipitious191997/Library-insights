@@ -1,0 +1,51 @@
+Loan ID,Book ID,Book Title,Category,Student ID,Borrow Date,Due Date,Return Date
+LN-1001,BK-101,Introduction to Algorithms,Computer Science,STU-1001,2026-01-05,2026-01-19,2026-01-12
+LN-1002,BK-106,Higher Engineering Mathematics,Mathematics,STU-1002,2026-01-07,2026-01-21,2026-01-15
+LN-1003,BK-110,Digital Logic and Computer Design,Electronics,STU-1003,2026-01-08,2026-01-22,2026-01-17
+LN-1004,BK-102,Clean Code: A Handbook of Agile Software,Computer Science,STU-1004,2026-01-10,2026-01-24,2026-01-14
+LN-1005,BK-113,Concepts of Modern Physics,Physics,STU-1005,2026-01-12,2026-01-26,2026-01-22
+LN-1006,BK-107,Linear Algebra and Its Applications,Mathematics,STU-1006,2026-01-15,2026-01-29,2026-01-23
+LN-1007,BK-103,Operating System Concepts,Computer Science,STU-1007,2026-01-18,2026-02-01,2026-01-30
+LN-1008,BK-111,Electronic Devices and Circuit Theory,Electronics,STU-1008,2026-01-20,2026-02-03,2026-01-26
+LN-1009,BK-108,Discrete Mathematics and Its Applications,Mathematics,STU-1009,2026-01-22,2026-02-05,2026-02-08
+LN-1010,BK-104,Database System Concepts,Computer Science,STU-1010,2026-01-25,2026-02-08,2026-01-28
+LN-1011,BK-101,Introduction to Algorithms,Computer Science,STU-1011,2026-02-02,2026-02-16,2026-02-09
+LN-1012,BK-115,Theory of Machines and Mechanisms,Mechanical Engineering,STU-1012,2026-02-04,2026-02-18,2026-02-12
+LN-1013,BK-106,Higher Engineering Mathematics,Mathematics,STU-1013,2026-02-06,2026-02-20,2026-02-15
+LN-1014,BK-117,Engineering Chemistry,Chemistry,STU-1014,2026-02-10,2026-02-24,2026-02-14
+LN-1015,BK-110,Digital Logic and Computer Design,Electronics,STU-1015,2026-02-12,2026-02-26,2026-02-19
+LN-1016,BK-113,Concepts of Modern Physics,Physics,STU-1016,2026-02-15,2026-03-01,2026-02-28
+LN-1017,BK-102,Clean Code: A Handbook of Agile Software,Computer Science,STU-1017,2026-02-18,2026-03-04,2026-02-23
+LN-1018,BK-107,Linear Algebra and Its Applications,Mathematics,STU-1018,2026-02-22,2026-03-08,2026-03-02
+LN-1019,BK-101,Introduction to Algorithms,Computer Science,STU-1019,2026-03-01,2026-03-15,2026-03-09
+LN-1020,BK-106,Higher Engineering Mathematics,Mathematics,STU-1020,2026-03-02,2026-03-16,2026-03-08
+LN-1021,BK-111,Electronic Devices and Circuit Theory,Electronics,STU-1021,2026-03-04,2026-03-18,2026-03-11
+LN-1022,BK-103,Operating System Concepts,Computer Science,STU-1022,2026-03-05,2026-03-19,2026-03-08
+LN-1023,BK-114,Fundamentals of Physics,Physics,STU-1023,2026-03-07,2026-03-21,2026-03-17
+LN-1024,BK-107,Linear Algebra and Its Applications,Mathematics,STU-1024,2026-03-09,2026-03-23,2026-03-23
+LN-1025,BK-110,Digital Logic and Computer Design,Electronics,STU-1025,2026-03-12,2026-03-26,2026-03-20
+LN-1026,BK-104,Database System Concepts,Computer Science,STU-1026,2026-03-14,2026-03-28,2026-03-18
+LN-1027,BK-115,Theory of Machines and Mechanisms,Mechanical Engineering,STU-1027,2026-03-16,2026-03-30,2026-03-28
+LN-1028,BK-108,Discrete Mathematics and Its Applications,Mathematics,STU-1028,2026-03-18,2026-04-01,2026-03-25
+LN-1029,BK-102,Clean Code: A Handbook of Agile Software,Computer Science,STU-1029,2026-03-20,2026-04-03,2026-04-12
+LN-1030,BK-112,Microelectronic Circuits,Electronics,STU-1030,2026-03-22,2026-04-05,2026-03-27
+LN-1031,BK-118,Physical Chemistry,Chemistry,STU-1031,2026-03-25,2026-04-08,2026-04-04
+LN-1032,BK-105,Python Crash Course,Computer Science,STU-1032,2026-03-28,2026-04-11,2026-04-03
+LN-1033,BK-101,Introduction to Algorithms,Computer Science,STU-1033,2026-04-02,2026-04-16,2026-04-09
+LN-1034,BK-106,Higher Engineering Mathematics,Mathematics,STU-1034,2026-04-03,2026-04-17,2026-04-16
+LN-1035,BK-110,Digital Logic and Computer Design,Electronics,STU-1035,2026-04-05,2026-04-19,2026-04-09
+LN-1036,BK-113,Concepts of Modern Physics,Physics,STU-1036,2026-04-06,2026-04-20,2026-04-24
+LN-1037,BK-102,Clean Code: A Handbook of Agile Software,Computer Science,STU-1037,2026-04-08,2026-04-22,2026-04-19
+LN-1038,BK-115,Theory of Machines and Mechanisms,Mechanical Engineering,STU-1038,2026-04-10,2026-04-24,2026-05-02
+LN-1039,BK-107,Linear Algebra and Its Applications,Mathematics,STU-1039,2026-04-12,2026-04-26,2026-04-29
+LN-1040,BK-103,Operating System Concepts,Computer Science,STU-1040,2026-04-14,2026-04-28,2026-04-18
+LN-1041,BK-111,Electronic Devices and Circuit Theory,Electronics,STU-1041,2026-04-16,2026-04-30,2026-04-28
+LN-1042,BK-117,Engineering Chemistry,Chemistry,STU-1042,2026-04-18,2026-05-02,2026-04-23
+LN-1043,BK-109,Advanced Engineering Mathematics,Mathematics,STU-1043,2026-04-20,2026-05-04,2026-05-08
+LN-1044,BK-114,Fundamentals of Physics,Physics,STU-1044,2026-04-22,2026-05-06,2026-05-05
+LN-1045,BK-116,Engineering Thermodynamics,Mechanical Engineering,STU-1045,2026-04-24,2026-05-08,
+LN-1046,BK-104,Database System Concepts,Computer Science,STU-1002,2026-04-26,2026-05-10,
+LN-1047,BK-110,Digital Logic and Computer Design,Electronics,STU-1004,2026-05-01,2026-05-15,
+LN-1048,BK-101,Introduction to Algorithms,Computer Science,STU-1006,2026-05-02,2026-05-16,
+LN-1049,BK-106,Higher Engineering Mathematics,Mathematics,STU-1008,2026-05-05,2026-05-19,
+LN-1050,BK-113,Concepts of Modern Physics,Physics,STU-1010,2026-05-08,2026-05-22,
